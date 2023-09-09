@@ -1,0 +1,155 @@
+1
+00:00:00,360 --> 00:00:02,310
+Hi, welcome to this course.
+
+2
+00:00:02,970 --> 00:00:05,700
+Before you start, let me explain you a few things.
+
+3
+00:00:06,390 --> 00:00:08,700
+See, the first point is how to follow this course.
+
+4
+00:00:09,870 --> 00:00:13,230
+See if you have taken this course for academic purposes.
+
+5
+00:00:13,620 --> 00:00:21,060
+If you have Java programming as your subject, then I suggest you follow the codes right from the beginning
+
+6
+00:00:21,330 --> 00:00:24,040
+and follow the lectures in the same order.
+
+7
+00:00:24,540 --> 00:00:25,940
+Don't skip anything.
+
+8
+00:00:26,910 --> 00:00:32,550
+Whatever the section that comes under your syllabus, you can cover them if any section is not in the
+
+9
+00:00:32,550 --> 00:00:32,950
+syllabus.
+
+10
+00:00:32,970 --> 00:00:35,190
+You can skip it the next.
+
+11
+00:00:35,340 --> 00:00:41,820
+If you already know Java and you are preparing for campus interviews and already you know the things,
+
+12
+00:00:42,120 --> 00:00:43,950
+then you can skip the topics.
+
+13
+00:00:44,460 --> 00:00:51,870
+But whichever topic you're selecting, please make sure that you are listening to all the lectures in
+
+14
+00:00:51,870 --> 00:00:52,530
+that section.
+
+15
+00:00:53,400 --> 00:00:59,520
+If you directly jump on a particular video, then you may not understand everything from it because
+
+16
+00:00:59,520 --> 00:01:01,870
+the topics are related in a particular section.
+
+17
+00:01:02,640 --> 00:01:09,660
+So please start the section from the beginning, although I don't directly jump on a particular topic
+
+18
+00:01:09,660 --> 00:01:10,620
+inside a section.
+
+19
+00:01:11,340 --> 00:01:15,950
+And if you are from industry and if you want to brush up any particular topic, then you can go ahead.
+
+20
+00:01:16,140 --> 00:01:17,690
+You might be having working experience.
+
+21
+00:01:17,700 --> 00:01:19,980
+Also, you can watch any lecture.
+
+22
+00:01:21,110 --> 00:01:23,860
+Then the next thing is about ressource.
+
+23
+00:01:24,810 --> 00:01:28,930
+Fee for the coding lectures where I am showing you the program.
+
+24
+00:01:29,460 --> 00:01:33,380
+So after watching that lecture, you try to write on the program by yourself.
+
+25
+00:01:33,990 --> 00:01:40,110
+And if you face any difficulty, then you can go to resources, you can download the resource.
+
+26
+00:01:40,110 --> 00:01:43,320
+That same program is available in the form of a resource.
+
+27
+00:01:43,980 --> 00:01:46,450
+You can click on the link and download it.
+
+28
+00:01:47,220 --> 00:01:53,190
+So just beside that lecture on the return site, you'll find a list of lectures, right?
+
+29
+00:01:53,500 --> 00:01:58,560
+So under the same lecture, the one you are watching, you will find a link called Resource.
+
+30
+00:01:59,040 --> 00:02:02,780
+Click on it and the program will be downloaded on your machine.
+
+31
+00:02:03,900 --> 00:02:10,470
+Make sure that the popup blocker is disappeared and still, if you face any difficulty, you are unable
+
+32
+00:02:10,470 --> 00:02:17,880
+to remove the error, then you can contact me in question answer section just below every lecture down
+
+33
+00:02:17,880 --> 00:02:18,210
+here.
+
+34
+00:02:18,210 --> 00:02:22,440
+On the right hand side, just below the belly button, you'll find Kushan answers.
+
+35
+00:02:22,990 --> 00:02:24,270
+So question answers.
+
+36
+00:02:24,280 --> 00:02:25,440
+You can ask a question.
+
+37
+00:02:25,440 --> 00:02:32,730
+And if the question is related to the code, then I suggest you copy paste the code there so that I
+
+38
+00:02:32,730 --> 00:02:36,660
+can easily check your program and help you with the errors.
+
+39
+00:02:37,720 --> 00:02:43,510
+So that's all go ahead and try to watch it without skipping any lectures.
